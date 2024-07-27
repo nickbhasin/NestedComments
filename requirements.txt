@@ -1,2 +1,5 @@
-pytest pytest-asyncio
-quart quart-db[sqlite] quart-schema
+pytest
+pytest-asyncio
+quart-db[sqlite]
+quart-schema
+pydantic
